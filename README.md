@@ -2,8 +2,11 @@ Hello, I'm Eric Nascimento! 👋
 I'm a passionate and aspiring full-stack developer with a keen interest in front-end technologies. Welcome to my GitHub profile!
 
 🚀 About Me
+
 🔭 I’m currently exploring and learning various technologies to enhance my full-stack development skills. HTML, CSS and JavaScript/TypeScript are my greatest interests.
+
 🌱 I'm enthusiastic about web development, with a focus on creating engaging and user-friendly experiences.
+
 👯 I enjoy collaborating with like-minded developers to work on interesting projects and solve real world problems.
 
 💻 Tech Stack
